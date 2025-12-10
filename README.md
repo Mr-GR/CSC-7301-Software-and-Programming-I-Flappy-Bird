@@ -44,7 +44,11 @@ python src/main/main.py
 ## Demo
 
 
-https://github.com/user-attachments/assets/806f6932-1463-47a8-a63f-bb88db936a04
+
+
+https://github.com/user-attachments/assets/6a8dcfb6-2cf1-4ee3-94c9-ba1d753e4d34
+
+
 
 
 Author: Manuel Guevara Reyes 
