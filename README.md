@@ -41,4 +41,10 @@ Step 1: Run the file
 python src/main/main.py
 ```
 
+## Demo
+
+
+https://github.com/user-attachments/assets/806f6932-1463-47a8-a63f-bb88db936a04
+
+
 Author: Manuel Guevara Reyes 
